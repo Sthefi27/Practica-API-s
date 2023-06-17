@@ -1,0 +1,15 @@
+video {
+    width: 100%;
+}
+
+
+button{
+    margin: 10px;
+    height:35px;
+    background-color: rgb(91, 113, 117);
+    color:black;
+}
+#cargando {
+    display: none;
+    margin-top: 5px;
+}
